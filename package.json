@@ -1,0 +1,12 @@
+{
+  "name": "db-migrator-42ea31",
+  "version": "1.0.0",
+  "description": "A db migrator utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["db-migrator", "utility"],
+  "license": "MIT"
+}
